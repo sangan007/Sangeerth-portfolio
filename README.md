@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <repository-name>
+   cd Sangeerth-portfolio
    ```
 3. Install dependencies:
    ```bash
